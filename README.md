@@ -1,10 +1,10 @@
-# MS_PowerBI_Swapnil
+# Sales Dashboard
+### Dashboard Link : https://da.gd/94Nlzm
 <h1>Sales Performance Dashboard for SN Corp</h1>
 <h2>Overview of Dashboard</h2>
 <h3>This repository contains PowerBI files that visualize the sales performance of SN Corp. The dashboard provides insights into various sales metrics and allows for detailed analysis through interactive filters and visualizations.</h3>
 
-# Report URL:
-https://da.gd/94Nlzm
+
 
 Features
 Cards: Display key metrics such as total sales, average order value, and total orders.
